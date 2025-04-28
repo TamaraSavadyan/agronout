@@ -1,0 +1,5 @@
+Django>=5.0
+celery>=5.3
+redis>=5.0
+django-unfold>=0.19
+ruff>=0.4
